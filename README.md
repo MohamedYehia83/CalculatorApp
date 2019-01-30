@@ -1,2 +1,2 @@
 # CalculatorApp
-Calculator App
+Developed in Java using Eclipse and WindowBuilder.
